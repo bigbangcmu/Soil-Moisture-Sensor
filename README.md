@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Soil%20Moist/%5B%20Input%20%5D%20-%20Soil%20Moisture%20Sensor.jpg?raw=true)
+
 # Soil-Moisture-Sensor
 **The Soil Moisture Sensor** measures the water content in soil by detecting changes in electrical capacitance. As soil moisture increases, capacitance changes and affects the output voltage — producing a higher voltage when dry and a lower voltage when moist. This analog signal can be read and interpreted by a microcontroller.
 
